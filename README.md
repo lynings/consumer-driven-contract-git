@@ -8,6 +8,6 @@ This demo repository shows how to use spring cloud contract to implement Consume
 ## Setup
 
 - A Github account and setting [SSH Key](https://github.com/settings/keys)
-- Fork contract [fraud_contract](https://github.com/lynings/fraud-contract)
+- Fork contract [consumer-driven-contract-git](https://github.com/lynings/consumer-driven-contract-git)
 - Fork provider repository [fraud](https://github.com/lynings/fraud)
 - Fork consumer repository [loan](https://github.com/lynings/loan)
